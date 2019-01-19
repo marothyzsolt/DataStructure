@@ -1,0 +1,13 @@
+{
+    "name": "wapor/data-structure",
+    "description": "Custom Data Structure pack",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Wapor",
+            "email": "marothyzsolt@egaming.hu"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
